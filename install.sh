@@ -3,8 +3,8 @@
 set -e
 
 INSTALL_DIR="$HOME/.local/bin/"
-SCRIPT_NAME="bongfetch"
-SCRIPT_PATH='./bongfetch'
+SCRIPT_NAME="cowfetch"
+SCRIPT_PATH='./cowfetch'
 
 DEPS=("fortune" "cowsay" "fastfetch")
 
