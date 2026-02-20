@@ -7,5 +7,5 @@ thanks to Quarkk77 for the original script.
 
 ## installation
 
-clone the repository
+clone the repository 
 run the install.sh script
