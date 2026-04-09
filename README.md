@@ -10,3 +10,7 @@ thanks to Quarkk77 for the original script.
 clone the repository
 
 run the install.sh script
+
+## todo
+
+tutorial for changing font color of the cow in the fastfetch config
