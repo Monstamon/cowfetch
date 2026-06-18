@@ -1,3 +1,5 @@
+# this repo is archived. new repo: https://codeberg.org/monstamon/cowfetch
+
 # cowfetch
 fastfetch script using fortune and cowsay
 
